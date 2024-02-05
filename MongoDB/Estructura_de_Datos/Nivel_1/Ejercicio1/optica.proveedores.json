@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65c0264403684bd74f14253d"
+  },
+  "nombre": "OptiProvee",
+  "direccion": {
+    "calle": "Calle Vista",
+    "numero": "123",
+    "piso": "2",
+    "puerta": "1A",
+    "ciudad": "Barcelona",
+    "codigo_postal": "08001",
+    "pais": "España"
+  },
+  "telefono": "930100200",
+  "fax": "930100201",
+  "nif": "B12345678"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f14253e"
+  },
+  "nombre": "VistaLens",
+  "direccion": {
+    "calle": "Calle Dioptria",
+    "numero": "45",
+    "piso": "3",
+    "puerta": "2B",
+    "ciudad": "Madrid",
+    "codigo_postal": "28010",
+    "pais": "España"
+  },
+  "telefono": "910200300",
+  "fax": "910200301",
+  "nif": "A87654321"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f14253f"
+  },
+  "nombre": "VisionLab",
+  "direccion": {
+    "calle": "Paseo de la Optica",
+    "numero": "75",
+    "piso": "2",
+    "puerta": "3C",
+    "ciudad": "Valencia",
+    "codigo_postal": "46010",
+    "pais": "España"
+  },
+  "telefono": "960300400",
+  "fax": "960300401",
+  "nif": "B23456789"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f142540"
+  },
+  "nombre": "GafasWorld",
+  "direccion": {
+    "calle": "Calle del Reflejo",
+    "numero": "45",
+    "piso": "1",
+    "puerta": "1D",
+    "ciudad": "Sevilla",
+    "codigo_postal": "41010",
+    "pais": "España"
+  },
+  "telefono": "955400500",
+  "fax": "955400501",
+  "nif": "B34567890"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f142541"
+  },
+  "nombre": "VisionDirect",
+  "direccion": {
+    "calle": "Calle Claridad",
+    "numero": "5",
+    "piso": "Bajo",
+    "puerta": "",
+    "ciudad": "Zaragoza",
+    "codigo_postal": "50010",
+    "pais": "España"
+  },
+  "telefono": "976500600",
+  "fax": "976500601",
+  "nif": "A45678901"
+}]

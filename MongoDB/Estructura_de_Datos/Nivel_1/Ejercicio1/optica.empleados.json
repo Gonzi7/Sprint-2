@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "65c03e0a03684bd74f14257c"
+  },
+  "nombre": "Laura Martinez"
+},
+{
+  "_id": {
+    "$oid": "65c03e0a03684bd74f14257d"
+  },
+  "nombre": "Javier Fernandez"
+},
+{
+  "_id": {
+    "$oid": "65c03e0a03684bd74f14257e"
+  },
+  "nombre": "Alba Ruiz"
+},
+{
+  "_id": {
+    "$oid": "65c03e0a03684bd74f14257f"
+  },
+  "nombre": "Antonio Sanchez"
+},
+{
+  "_id": {
+    "$oid": "65c03e0a03684bd74f142580"
+  },
+  "nombre": "Alberto Roca"
+}]

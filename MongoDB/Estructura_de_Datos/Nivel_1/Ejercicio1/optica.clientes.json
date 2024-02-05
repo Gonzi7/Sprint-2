@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "65c03b7a03684bd74f14256f"
+  },
+  "nombre": "Ana López",
+  "direccion": "Calle Falsa, 123, 2D, Valencia, 46022, España",
+  "telefono": "600123456",
+  "email": "ana.lopez@outlook.com",
+  "fecha_registro": {
+    "$date": "2023-01-15T00:00:00.000Z"
+  },
+  "recomendado_por": null
+},
+{
+  "_id": {
+    "$oid": "65c03bb703684bd74f142571"
+  },
+  "nombre": "Carlos Pérez",
+  "direccion": "Avenida del Mar, 456, 5C, Málaga, 29017, España",
+  "telefono": "600654321",
+  "email": "carlos.lopez@protonmail.com",
+  "fecha_registro": {
+    "$date": "2023-03-22T00:00:00.000Z"
+  },
+  "recomendado_por": "ObjectId('65c03b7a03684bd74f14256f')"
+},
+{
+  "_id": {
+    "$oid": "65c03c0203684bd74f142574"
+  },
+  "nombre": "Marta Ruiz",
+  "direccion": "Calle Sol, 67, 1A, Barcelona, 08004, España",
+  "telefono": "601234567",
+  "email": "marta.ruiz@mail.com",
+  "fecha_registro": {
+    "$date": "2023-03-22T00:00:00.000Z"
+  },
+  "recomendado_por": "ObjectId('65c03bb703684bd74f142571')"
+},
+{
+  "_id": {
+    "$oid": "65c03c3f03684bd74f142576"
+  },
+  "nombre": "Jorge Navarro",
+  "direccion": "Avenida Luna, 89, 2B, Madrid, 28011, España",
+  "telefono": "602345678",
+  "email": "jorge.navarro@zoho.com",
+  "fecha_registro": {
+    "$date": "2023-03-22T00:00:00.000Z"
+  },
+  "recomendado_por": "ObjectId('65c03c0203684bd74f142574')"
+},
+{
+  "_id": {
+    "$oid": "65c03c5c03684bd74f142578"
+  },
+  "nombre": "Sofía Martín",
+  "direccion": "Paseo Estrellas, 12, Bajo, Zaragoza, 50010, España",
+  "telefono": "603456789",
+  "email": "sofia.martin@hotmail.com",
+  "fecha_registro": {
+    "$date": "2023-03-22T00:00:00.000Z"
+  },
+  "recomendado_por": "ObjectId('65c03c3f03684bd74f142576')"
+}]
