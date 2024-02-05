@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65c033dc03684bd74f142555"
+  },
+  "marca": "Rayban",
+  "tipo_montura": "metal",
+  "precio": 120,
+  "proveedor_id": "ObjectId('65c0264403684bd74f14253d')"
+},
+{
+  "_id": {
+    "$oid": "65c033dc03684bd74f142556"
+  },
+  "marca": "Oakley",
+  "tipo_montura": "pasta",
+  "precio": 150,
+  "proveedor_id": "ObjectId('65c0264403684bd74f14253e')"
+},
+{
+  "_id": {
+    "$oid": "65c033dc03684bd74f142557"
+  },
+  "marca": "Versace",
+  "tipo_montura": "metal",
+  "precio": 200,
+  "proveedor_id": "ObjectId('65c0264403684bd74f14253f')"
+},
+{
+  "_id": {
+    "$oid": "65c033dc03684bd74f142558"
+  },
+  "marca": "Prada",
+  "tipo_montura": "pasta",
+  "precio": 180,
+  "proveedor_id": "ObjectId('65c0264403684bd74f142540')"
+},
+{
+  "_id": {
+    "$oid": "65c033dc03684bd74f142559"
+  },
+  "marca": "Gucci",
+  "tipo_montura": "flotante",
+  "precio": 250,
+  "proveedor_id": "ObjectId('65c0264403684bd74f142541')"
+}]

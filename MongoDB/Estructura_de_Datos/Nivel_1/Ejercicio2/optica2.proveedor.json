@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65c0264403684bd74f14253d"
+  },
+  "nombre": "OptiProvee",
+  "direccion": "Calle Vista, 123, 2, 1A, Barcelona, 08001, España",
+  "telefono": "930100200",
+  "fax": "930100201",
+  "nif": "B12345678"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f14253e"
+  },
+  "nombre": "VistaLens",
+  "direccion": "Calle Dioptria, 45, 3, 2B, Madrid, 28010, España",
+  "telefono": "910200300",
+  "fax": "910200301",
+  "nif": "A87654321"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f14253f"
+  },
+  "nombre": "VisionLab",
+  "direccion": "Paseo de la Optica, 75, 2, 3C, Valencia, 46010, España",
+  "telefono": "960300400",
+  "fax": "960300401",
+  "nif": "B23456789"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f142540"
+  },
+  "nombre": "GafasWorld",
+  "direccion": "Calle del Reflejo, 45, 1, 1D, Sevilla, 41010, España",
+  "telefono": "955400500",
+  "fax": "955400501",
+  "nif": "B34567890"
+},
+{
+  "_id": {
+    "$oid": "65c0264403684bd74f142541"
+  },
+  "nombre": "VisionDirect",
+  "direccion": "Calle Claridad, 5, Bajo, Zaragoza, 50010, España",
+  "telefono": "976500600",
+  "fax": "976500601",
+  "nif": "A45678901"
+}]

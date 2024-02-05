@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65c0424b03684bd74f142595"
+  },
+  "cliente_id": "ObjectId('65c03b7a03684bd74f14256f')",
+  "gafas_id": "ObjectId('65c033dc03684bd74f142555')",
+  "empleado_id": "ObjectId('65c03e0a03684bd74f14257c')",
+  "fecha_hora_venta": {
+    "$date": "2023-04-10T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c0424b03684bd74f142596"
+  },
+  "cliente_id": "ObjectId('65c03bb703684bd74f142571')",
+  "gafas_id": "ObjectId('65c033dc03684bd74f142556')",
+  "empleado_id": "ObjectId('65c03e0a03684bd74f14257d')",
+  "fecha_hora_venta": {
+    "$date": "2023-06-11T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c0424b03684bd74f142597"
+  },
+  "cliente_id": "ObjectId('65c03c0203684bd74f142574')",
+  "gafas_id": "ObjectId('65c033dc03684bd74f142557')",
+  "empleado_id": "ObjectId('65c03e0a03684bd74f14257e')",
+  "fecha_hora_venta": {
+    "$date": "2023-12-12T15:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c0424b03684bd74f142598"
+  },
+  "cliente_id": "ObjectId('65c03c3f03684bd74f142576')",
+  "gafas_id": "ObjectId('65c033dc03684bd74f142558')",
+  "empleado_id": "ObjectId('65c03e0a03684bd74f14257f')",
+  "fecha_hora_venta": {
+    "$date": "2023-01-15T17:50:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c0424b03684bd74f142599"
+  },
+  "cliente_id": "ObjectId('65c03c5c03684bd74f142578')",
+  "gafas_id": "ObjectId('65c033dc03684bd74f142559')",
+  "empleado_id": "ObjectId('65c03e0a03684bd74f142580')",
+  "fecha_hora_venta": {
+    "$date": "2023-04-18T19:06:00.000Z"
+  }
+}]
